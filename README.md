@@ -55,7 +55,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/fedelanYTCLUB/Sacura_Bot && cd Sacura_Bot
+git clone https://github.com/fedelanYTCLUB/Megumin_Bot && cd Megumin_Bot
 ```
 
 ```bash
@@ -83,7 +83,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Yuki_Suou-Bot
+    cd Megumin_Bot
    ```
 
 ❒ Inicia el bot nuevamente:
