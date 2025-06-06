@@ -1,6 +1,6 @@
-<h1 align="center">✦ Yυƙι-Sυσυ-Bσƚ ✦</h1>
+<h1 align="center">𝘢𝘴𝘶𝘯𝘢_𝘣𝘰𝘵-𝘮𝘥</h1>
 
- <img src= "https://files.catbox.moe/om9jai.jpg">
+ <img src= "https://qu.ax/FLKXQ.jpg">
     </p>
 
 ### **`❕️ Información importante`**
