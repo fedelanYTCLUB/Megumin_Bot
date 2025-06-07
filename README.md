@@ -1,6 +1,6 @@
-<h1 align="center">𝘢𝘴𝘶𝘯𝘢_𝘣𝘰𝘵-𝘮𝘥</h1>
+<h1 align="center">ASUNA BOT Al</h1>
 
- <img src= "https://qu.ax/FLKXQ.jpg">
+ <img src= "https://files.catbox.moe/iigsua.jpg">
     </p>
 
 ### **`❕️ Información importante`**
