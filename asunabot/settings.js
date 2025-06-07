@@ -11,22 +11,19 @@ import moment from 'moment-timezone'
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumber = '' //Ejemplo: 573218138672
+global.botNumber = '' //Ejemplo: 543218138672
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
   ['5491156178758', '🜲 Propietario 🜲', true],
-  ['156981591593126'],
-  ['5219541690054'],
-  ['5214811527445'], 
-  ['5216671548329']
+  ['573015270038', 'staff', true],
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['5491156178758'] 
+global.suittag = ['5491156178758', '573015270038'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -55,8 +52,8 @@ global.etiqueta = '✦ ғᴇᴅᴇʟᴀɴʏᴛ'
 global.moneda = '✿ 𝖢𝗁𝗈𝖼𝗈𝗅𝖺𝗍𝖾𝗌 ✿'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://files.catbox.moe/ylrwlr.jpg'
-global.avatar = 'https://files.catbox.moe/u43tlz.jpg'
+global.banner = 'https://qu.ax/FLKXQ.jpg'
+global.avatar = 'https://files.catbox.moe/iigsua.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
