@@ -59,36 +59,22 @@ let handler = async (m, { conn, args }) => {
 *꒰ 🔍 ꒱* #githubsearch
 *꒰ 🔍 ꒱* #cuevana • #cuevanasearch
 *꒰ 🔍 ꒱* #google
-» Realiza búsquedas por Google.
 *꒰ 🔍 ꒱* #pin • #pinterest
-» Buscador de imágenes de Pinterest.
 *꒰ 🔍 ꒱* #imagen • #image
-» Buscador de imágenes de Google.
 *꒰ 🔍 ꒱* #infoanime
-» Buscador de información de anime/manga.
 *꒰ 🔍 ꒱* #hentaisearch • #searchhentai
-» Buscador de capítulos hentai.
 *꒰ 🔍 ꒱* #xnxxsearch • #xnxxs
-» Buscador de vídeos de Xnxx.
 *꒰ 🔍 ꒱* #xvsearch • #xvideossearch
-» Buscador de vídeos de Xvideos.
 *꒰ 🔍 ꒱* #pornhubsearch • #phsearch
-» Buscador de videos de Pornhub.
 *꒰ 🔍 ꒱* #npmjs
-» Buscador de npmjs.
 
 > ･::･ﾟ☆ 𝐃𝐞𝐬𝐜𝐚𝐫𝐠𝐚𝐬 ☆･ﾟ:,★ﾟ::･> 
-Comandos de descargas para varios archivos.
+
 *꒰ 📥 ꒱* #ttstalk • #tiktokstalk + [username]
-» Mira la info de algún usuario de tiktok.
 *꒰ 📥 ꒱* #tiktok • #tt
-» Descarga videos de TikTok.
 *꒰ 📥 ꒱* #mediafire • #mf
-» Descargar un archivo de MediaFire.
 *꒰ 📥 ꒱* #pinvid • #pinvideo + [enlacé]
-» Descargar vídeos de Pinterest.
 *꒰ 📥 ꒱* #mega • #mg + [enlacé]
-» Descargar un archivo de MEGA.
 *꒰ 📥 ꒱* #play • #play2
 » Descarga música/video de YouTube.
 *꒰ 📥 ꒱* #ytmp3 • #ytmp4
