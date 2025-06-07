@@ -16,66 +16,63 @@ let handler = async (m, { conn, args }) => {
 
   let txt = `
   *🦋.......⋆｡˚☁︎｡⋆｡ ☔ ⋆｡˚☁︎｡⋆........🦋*
-> Holis, Soy ${botname}\n   ${(conn.user.jid == global.conn.user.jid ? '*͜͡☔ P͜͡r͜͡i͜͡n͜͡c͜͡i͜͡p͜͡a͡l 🅞🅕🅒 🌸*͜͡' : '*͜͡🦋 S͜͡u͜͡b͜͡ B͜͡o͜͡t͜͡ 🅢 💙*͜͡')}
-*⚘ ᥴ᥆mᥙᥒіძᥲძ ᥆𝖿ᥴ:* 
-https://whatsapp.com/channel/0029VbAfd7zDDmFXm5adcF31
+> Holis, Soy ${botname}
 
 Aquí tienes la lista de mis comandos:
 
-╭┈────── ❃
-│ 👤 *Usuario:* @${userId.split('@')[0]}
-│ 🪷 *Modo:* Privado
-│ 🕒 *Activa hace:* ${uptime}
-│ 👥 *Usuarios:* *${totalreg}*
-│ 🤍 *Comandos:* ${totalCommands}
-│ 🍫 *Baileys:* MekBaileys
-╰─➤ ✎
+
+👤 *Usuario:* @${userId.split('@')[0]}
+🪷 *Modo:* Privado
+🕒 *Activa hace:* ${uptime}
+👥 *Usuarios:* *${totalreg}*
+🤍 *Comandos:* ${totalCommands}
+🍫 *Baileys:* MekBaileys
 
 > Puedes crear tu *SUB-BOT* con #code o #qr ☔
 
 > ･::ﾟ･ﾟ☆ 𝐈𝐧𝐟𝐨 𝐁𝐨𝐭 ☆･ﾟ:･ﾟ::･> 
-Comandos para ver el estado e información de la Bot.
+
 *꒰ 🍀 ꒱* #help • #menu
-» Ver la lista de comandos de la Bot.
+
 *꒰ 🍀 ꒱* #uptime • #runtime
-» Ver tiempo activo o en línea de la Bot.
+
 *꒰ 🍀 ꒱* #serbot • #serbot code
-» Crea una sesión de Sub-Bot.
+
 *꒰ 🍀 ꒱* #bots • #sockets
-» Ver la lista de Sub-Bots activos.
+
 *꒰ 🍀 ꒱* #creador
-» Contacto del creador de la Bot.
+
 *꒰ 🍀 ꒱* #status • #estado
-» Ver el estado actual de la Bot.
+
 *꒰ 🍀 ꒱* #links • #grupos
-» Ver los enlaces oficiales de la Bot.
+
 *꒰ 🍀 ꒱* #infobot • #infobot
-» Ver la información completa de la Bot.
+
 *꒰ 🍀 ꒱* #sug • #newcommand
-» Sugiere un nuevo comando.
+
 *꒰ 🍀 ꒱* #p • #ping
-» Ver la velocidad de respuesta del Bot.
+
 *꒰ 🍀 ꒱* #reporte • #reportar
-» Reporta alguna falla o problema de la Bot.
+
 *꒰ 🍀 ꒱* #sistema • #system
-» Ver estado del sistema de alojamiento.
+
 *꒰ 🍀 ꒱* #speed • #speedtest
-» Ver las estadísticas de velocidad de la Bot.
+
 *꒰ 🍀 ꒱* #views • #usuarios
-» Ver la cantidad de usuarios registrados en el sistema.
+
 *꒰ 🍀 ꒱* #funciones • #totalfunciones
-» Ver todas las funciones de la Bot.
+
 *꒰ 🍀 ꒱* #ds • #fixmsgespera
-» Eliminar archivos de sesión innecesarios.
+
 *꒰ 🍀 ꒱* #editautoresponder
-» Configurar un Prompt personalizado de la Bot.
+
 
 > ･::::･ﾟ☆ 𝐁𝐮𝐬𝐜𝐚𝐝𝐨𝐫𝐞𝐬 ☆･ﾟ★･ﾟ::･> 
-Comandos para realizar búsquedas en distintas plataformas.
+
 *꒰ 🔍 ꒱* #wallpapersearch + [ búsqueda ]
-» Buscador de wallpapers.
+
 *꒰ 🔍 ꒱* #tiktoksearch • #tiktoks
-» Buscador de videos de tiktok.
+
 *꒰ 🔍 ꒱* #tweetposts
 » Buscador de posts de Twitter/X.
 *꒰ 🔍 ꒱* #ytsearch • #yts
