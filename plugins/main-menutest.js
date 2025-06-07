@@ -18,9 +18,8 @@ let handler = async (m, { conn, args }) => {
   *🦋.......⋆｡˚☁︎｡⋆｡ ☔ ⋆｡˚☁︎｡⋆........🦋*
 > Holis, Soy ${botname}
 
-Aquí tienes la lista de mis comandos:
 
-
+👋 *saludo:* ${saludo}
 👤 *Usuario:* @${userId.split('@')[0]}
 🪷 *Modo:* Privado
 🕒 *Activa hace:* ${uptime}
@@ -33,54 +32,32 @@ Aquí tienes la lista de mis comandos:
 > ･::ﾟ･ﾟ☆ 𝐈𝐧𝐟𝐨 𝐁𝐨𝐭 ☆･ﾟ:･ﾟ::･> 
 
 *꒰ 🍀 ꒱* #help • #menu
-
 *꒰ 🍀 ꒱* #uptime • #runtime
-
 *꒰ 🍀 ꒱* #serbot • #serbot code
-
 *꒰ 🍀 ꒱* #bots • #sockets
-
 *꒰ 🍀 ꒱* #creador
-
 *꒰ 🍀 ꒱* #status • #estado
-
 *꒰ 🍀 ꒱* #links • #grupos
-
 *꒰ 🍀 ꒱* #infobot • #infobot
-
 *꒰ 🍀 ꒱* #sug • #newcommand
-
 *꒰ 🍀 ꒱* #p • #ping
-
 *꒰ 🍀 ꒱* #reporte • #reportar
-
 *꒰ 🍀 ꒱* #sistema • #system
-
 *꒰ 🍀 ꒱* #speed • #speedtest
-
 *꒰ 🍀 ꒱* #views • #usuarios
-
 *꒰ 🍀 ꒱* #funciones • #totalfunciones
-
 *꒰ 🍀 ꒱* #ds • #fixmsgespera
-
 *꒰ 🍀 ꒱* #editautoresponder
 
 
 > ･::::･ﾟ☆ 𝐁𝐮𝐬𝐜𝐚𝐝𝐨𝐫𝐞𝐬 ☆･ﾟ★･ﾟ::･> 
 
 *꒰ 🔍 ꒱* #wallpapersearch + [ búsqueda ]
-
 *꒰ 🔍 ꒱* #tiktoksearch • #tiktoks
-
 *꒰ 🔍 ꒱* #tweetposts
-» Buscador de posts de Twitter/X.
 *꒰ 🔍 ꒱* #ytsearch • #yts
-» Realiza búsquedas de Youtube.
 *꒰ 🔍 ꒱* #githubsearch
-» Buscador de usuarios de GitHub.
 *꒰ 🔍 ꒱* #cuevana • #cuevanasearch
-» Buscador de películas/series por Cuevana.
 *꒰ 🔍 ꒱* #google
 » Realiza búsquedas por Google.
 *꒰ 🔍 ꒱* #pin • #pinterest
