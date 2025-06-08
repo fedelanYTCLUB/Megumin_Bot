@@ -1,30 +1,24 @@
 let handler = async (m, { isPrems, conn }) => {
 
 let img = 'https://files.catbox.moe/16bm7g.jpg' 
-let texto = `• 𝐌𝐄𝐍𝐔 +18 
+let texto = `• 𝐌𝐄𝐍𝐔 +18 •
+「 🔞 *COMANDOS NOPOR* 🔞 」
 
-*꒰ 🔥 ꒱* #anal + <mencion
-*꒰ 🔥 ꒱* #waifu
-*꒰ 🔥 ꒱* #bath + <mencion
-» Bañarse
-*꒰ 🔥 ꒱* #blowjob • #mamada • #bj + <mencion
-*꒰ 🔥 ꒱* #boobjob + <mencion
-*꒰ 🔥 ꒱* #cum + <mencion
-*꒰ 🔥 ꒱* #fap + <mencion
-*꒰ 🔥 ꒱* #ppcouple • #ppcp
-*꒰ 🔥 ꒱* #footjob + <mencion
-*꒰ 🔥 ꒱* #fuck • #coger • #fuck2 + <mencion
-*꒰ 🔥 ꒱* #cafe • #coffe
-*꒰ 🔥 ꒱* #violar • #perra + <mencion
-*꒰ 🔥 ꒱* #grabboobs + <mencion
-*꒰ 🔥 ꒱* #grop + <mencion
-*꒰ 🔥 ꒱* #lickpussy + <mencion
-*꒰ 🔥 ꒱* #rule34 • #r34 + [Tags]
-*꒰ 🔥 ꒱* #sixnine • #69 + <mencion
-*꒰ 🔥 ꒱* #spank • #nalgada + <mencion
-*꒰ 🔥 ꒱* #suckboobs + <mencion
-*꒰ 🔥 ꒱* #undress • #encuerar + <mencion
-*꒰ 🔥 ꒱* #yuri • #tijeras + <mencion
+║➤ ❤️‍🔥 _.xnxxsearch_ (texto)
+║➤ ❤️‍🔥 _.xnxxdl_ (link)
+║➤ ❤️‍🔥 _.phsearch_ (texto)
+║➤ ❤️‍🔥 _.rule34_ (texto)
+║➤ ❤️‍🔥 _.xvideosearch_ (texto)
+║➤ ❤️‍🔥 _.xvideosdl_ (link)
+║➤ ❤️‍🔥 _.hentaisearch_ (texto)
+║➤ ❤️‍🔥 _.fuck_ (@tag)
+║➤ ❤️‍🔥 _.fuck2_ (@tag)
+║➤ ❤️‍🔥 _.cum_ (@tag)
+║➤ ❤️‍🔥 _.follar_ (@tag)
+║➤ ❤️‍🔥 _.penetrar_ (@tag)
+║➤ ❤️‍🔥 _.horny_ (@tag)
+║➤ ❤️‍🔥 _.violar_ (@tag)
+║➤ ❤️‍🔥 _.sixnine_ (@tag)`
 
  conn.sendMessage(m.chat, {
         text: texto,
