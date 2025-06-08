@@ -54,7 +54,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
     regbot += `• 5 CrowCoins 🪙\n> `
     regbot += `• 245 Experiencia 💸\n> `
     regbot += `• 12 Tokens 💰\n`
-    regbot += `꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷💙꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷\n> `
+    regbot += `─── ･ ｡ﾟ☆: *.💙 .* :☆ﾟ. ───\n> `
     regbot += `🍿 Usᥲ *#perfil* ⍴ᥲrᥲ ᥎ᥱr 𝗍ᥙ ⍴ᥱr𝖿іᥣ.`
 
   await conn.sendMessage(m.chat, {
@@ -62,7 +62,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
         contextInfo: {
             externalAdReply: {
                 title: '⊱『✅𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢(𝗔) 𝆹𝅥✅』⊰',
-                thumbnailUrl: 'https://cdnmega.vercel.app/media/h44y0CQD@xRux51A-53nzEWpQQYioHF2F3Pq04k9oPdDpcdNz5mw',
+                thumbnailUrl: 'https://files.catbox.moe/8v91yo.jpg',
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
