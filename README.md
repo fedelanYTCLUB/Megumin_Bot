@@ -115,7 +115,7 @@ npm start
 
 ### **`👑 INFORMACION CONTACTOS`**
 
-#### **`Owner: WillZek 🤴`**
+#### **`Owner: Fede 🤴`**
 > **`Developed By: Moon Force`**
 
 #### **`CONTACTOS 💻`**
