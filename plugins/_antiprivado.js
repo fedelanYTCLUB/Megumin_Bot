@@ -1,27 +1,14 @@
-export async function before(m, { conn, isAdmin, isBotAdmin, isOwner, isROwner }) {
-  if (m.isBaileys && m.fromMe) return true;
-  if (m.isGroup) return false;
-  if (!m.message) return true;
-
-  const text = m.text?.toUpperCase() || '';
-  if (text.includes('PIEDRA') || text.includes('PAPEL') || text.includes('TIJERA') || text.includes('CODE') || text.includes('JADIBOT')) return true;
-
+export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) {
+  if (m.isBaileys && m.fromMe) return !0;
+  if (m.isGroup) return !1;
+  if (!m.message) return !0;
+  if (m.text.includes('PIEDRA') || m.text.includes('PAPEL') || m.text.includes('TIJERA') || m.text.includes('serbot') || m.text.includes('jadibot')) return !0;
   const chat = global.db.data.chats[m.chat];
-  const bot = global.db.data.settings?.[conn?.user?.jid] || {};
-  
-  if (m.chat === '120363402097425674@newsletter) return true;
-
+  const bot = global.db.data.settings[this.user.jid] || {};
+if (m.chat === '120363322713003916@newsletter') return !0
   if (bot.antiPrivate && !isOwner && !isROwner) {
-    await m.reply(
-      `> 𝗛𝗼𝗹𝗮 @${m.sender.split`@`[0]} ✨\n\n` +
-      `> Por ahora los comandos solo están activos en grupos.\n` +
-      `> Si quieres usar la bot, únete a este grupo:\n` +
-      `> \`https://chat.whatsapp.com/FX6eYrqXtt9L76NDpOm2K7\`\n\n` +
-      `> Te esperamos 💖`,
-      false,
-      { mentions: [m.sender] }
-    );
-    await conn.updateBlockStatus(m.chat, 'block');
+    await m.reply(`${emoji} Hola @${m.sender.split`@`[0]}, mi creador a desactivado los comandos en los chats privados el cual serás bloqueado, si quieres usar los comandos del bot te invito a que te unas al grupo principal del bot.\n\n${gp1}`, false, {mentions: [m.sender]});
+    await this.updateBlockStatus(m.chat, 'block');
   }
-  return false;
+  return !1;
 }
