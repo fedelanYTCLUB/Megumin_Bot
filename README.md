@@ -148,9 +148,9 @@ href="https://wa.me/5491156178758?text="><img src="https://files.catbox.moe/1im3
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
----
 
-### **`ᥫ᭡ Propietario`**
+
+### **`🍭 Propietario`**
 <a
 href="https://github.com/fedelanYTCLUB"><img src="https://github.com/fedelanYTCLUB.png" width="130" height="130" alt="
 FedelanYT"/></a>
