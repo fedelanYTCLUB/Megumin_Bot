@@ -354,52 +354,9 @@ Comandos de reacciones de anime, ¡tan tiernas!
 *꒰ 🌸 ꒱* #think + <mencion
 » Pensar en algo
 
-> ･:::･ﾟ☆ 🔞 𝐍𝐒𝐅𝐖 🔞 ☆･ﾟ::::･> 
-Comandos NSFW (Contenido para adultos), ¡solo para mayores!
-*꒰ 🔥 ꒱* #anal + <mencion
-» Hacer un anal
-*꒰ 🔥 ꒱* #waifu
-» Busca una waifu aleatoria.
-*꒰ 🔥 ꒱* #bath + <mencion
-» Bañarse
-*꒰ 🔥 ꒱* #blowjob • #mamada • #bj + <mencion
-» Dar una mamada
-*꒰ 🔥 ꒱* #boobjob + <mencion
-» Hacer una rusa
-*꒰ 🔥 ꒱* #cum + <mencion
-» Venirse en alguien.
-*꒰ 🔥 ꒱* #fap + <mencion
-» Hacerse una paja
-*꒰ 🔥 ꒱* #ppcouple • #ppcp
-» Genera imágenes para amistades o parejas.
-*꒰ 🔥 ꒱* #footjob + <mencion
-» Hacer una paja con los pies
-*꒰ 🔥 ꒱* #fuck • #coger • #fuck2 + <mencion
-» Follarte a alguien
-*꒰ 🔥 ꒱* #cafe • #coffe
-» Tómate un cafecito con alguien
-*꒰ 🔥 ꒱* #violar • #perra + <mencion
-» Viola a alguien
-*꒰ 🔥 ꒱* #grabboobs + <mencion
-» Agarrar tetas
-*꒰ 🔥 ꒱* #grop + <mencion
-» Manosear a alguien
-*꒰ 🔥 ꒱* #lickpussy + <mencion
-» Lamer un coño
-*꒰ 🔥 ꒱* #rule34 • #r34 + [Tags]
-» Buscar imágenes en Rule34
-*꒰ 🔥 ꒱* #sixnine • #69 + <mencion
-» Haz un 69 con alguien
-*꒰ 🔥 ꒱* #spank • #nalgada + <mencion
-» Dar una nalgada
-*꒰ 🔥 ꒱* #suckboobs + <mencion
-» Chupar tetas
-*꒰ 🔥 ꒱* #undress • #encuerar + <mencion
-» Desnudar a alguien
-*꒰ 🔥 ꒱* #yuri • #tijeras + <mencion
-» Hacer tijeras.
 
 > ･:･:･ﾟ☆ 🎮 𝐉𝐮𝐞𝐠𝐨𝐬 🎮 ☆･ﾟ･ﾟ::･> 
+
 Comandos de juegos para jugar con tus amigos, ¡a divertirse!
 *꒰ 🎲 ꒱* #amistad • #amigorandom
 » Hacer amigos con un juego.
