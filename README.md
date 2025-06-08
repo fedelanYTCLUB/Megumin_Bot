@@ -8,7 +8,7 @@
 </details>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/FedelanYTCLUB/Megumin_Bot/count.svg" />
+  <img src="https://profile-counter.glitch.me/FedelanYTCLUB/count.svg" />
   <p>👁️ Visitantes del Repositorio 👁️</p>
 </div>
 
