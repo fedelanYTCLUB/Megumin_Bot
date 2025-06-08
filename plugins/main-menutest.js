@@ -15,8 +15,8 @@ let handler = async (m, { conn, args }) => {
   const moneda = global.moneda || 'monedas';
 
   let txt = `
-  *🦋.......⋆｡˚☁︎｡⋆｡ ☔ ⋆｡˚☁︎｡⋆........🦋*
-> Holis, Soy ${botname}
+  *🍭.......⋆｡˚☁︎｡⋆｡ 🍀 ⋆｡˚☁︎｡⋆........🍭*
+> Hola, Me llamo ${botname}
 
 > *🍭 EL BOT SE ENCUENTRA EN DESARROLLO XD*
 
