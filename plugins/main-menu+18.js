@@ -1,7 +1,7 @@
 let handler = async (m, { isPrems, conn }) => {
 
-let img = 'https://files.catbox.moe/vr67l4.jpg' 
-let texto = `𝐌𝐄𝐍𝐔 +18
+let img = 'https://files.catbox.moe/16bm7g.jpg' 
+let texto = `• 𝐌𝐄𝐍𝐔 +18 
 
 *꒰ 🔥 ꒱* #anal + <mencion
 *꒰ 🔥 ꒱* #waifu
@@ -39,7 +39,7 @@ let texto = `𝐌𝐄𝐍𝐔 +18
         }}},
         { quoted: fkontak })
 }
-handler.help = ['menu18']
-handler.tags = ['main']
-handler.command = ['menu18', 'menunsfw', 'menuhot'] 
+handler.help = ['menuhot (menu +18)']
+handler.tags = ['crow']
+handler.command = ['menu18', 'menuhorny', 'menunsfw', 'menuhot'] 
 export default handler;
