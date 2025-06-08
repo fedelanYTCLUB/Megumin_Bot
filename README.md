@@ -3,6 +3,20 @@
  <img src= "https://files.catbox.moe/iigsua.jpg">
     </p>
 
+----
+
+</details>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FedelanYTCLUB/Megumin_Bot/count.svg" />
+  <p>👁️ Visitantes del Repositorio 👁️</p>
+</div>
+
+</details>
+
+   
+----
+
 ### **`❕️ Información importante`**
 
 <details>
