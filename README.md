@@ -116,7 +116,7 @@ npm start
 ### **`👑 INFORMACION CONTACTOS`**
 
 #### **`Owner: Fede 🤴`**
-> **`Developed By: Moon Force`**
+> **`Developed By: asuna**
 
 #### **`CONTACTOS 💻`**
 <p>
