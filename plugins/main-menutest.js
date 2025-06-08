@@ -30,24 +30,24 @@ let handler = async (m, { conn, args }) => {
 
 > ･::ﾟ･ﾟ☆ 𝐈𝐧𝐟𝐨 𝐁𝐨𝐭 ☆･ﾟ:･ﾟ::･> 
 
-*꒰ 🍭 ꒱* #help • #menu
-*꒰ 🍭 ꒱* #menu18 #menunsfw
-*꒰ 🍭 ꒱* #uptime • #runtime
-*꒰ 🍭 ꒱* #serbot • #serbot code
-*꒰ 🍭 ꒱* #bots • #sockets
-*꒰ 🍭 ꒱* #creador
-*꒰ 🍭 ꒱* #status • #estado
-*꒰ 🍭 ꒱* #links • #grupos
-*꒰ 🍭 ꒱* #infobot • #infobot
-*꒰ 🍭 ꒱* #sug • #newcommand
-*꒰ 🍭 ꒱* #p • #ping
-*꒰ 🍭 ꒱* #reporte • #reportar
-*꒰ 🍭 ꒱* #sistema • #system
-*꒰ 🍭 ꒱* #speed • #speedtest
-*꒰ 🍭 ꒱* #views • #usuarios
-*꒰ 🍭 ꒱* #funciones • #totalfunciones
-*꒰ 🍭 ꒱* #ds • #fixmsgespera
-*꒰ 🍭 ꒱* #editautoresponder
+*꒰ 👑 ꒱* #help • #menu
+*꒰ 👑 ꒱* #menu18 #menunsfw
+*꒰ 👑 ꒱* #uptime • #runtime
+*꒰ 👑 ꒱* #serbot • #serbot code
+*꒰ 👑 ꒱* #bots • #sockets
+*꒰ 👑 ꒱* #creador • #owner
+*꒰ 👑 ꒱* #status • #estado
+*꒰ 👑 ꒱* #links • #grupos
+*꒰ 👑 ꒱* #infobot • #infobot
+*꒰ 👑 ꒱* #sug • #newcommand
+*꒰ 👑 ꒱* #p • #ping
+*꒰ 👑 ꒱* #reporte • #reportar
+*꒰ 👑 ꒱* #sistema • #system
+*꒰ 👑 ꒱* #speed • #speedtest
+*꒰ 👑 ꒱* #views • #usuarios
+*꒰ 👑 ꒱* #funciones • #totalfunciones
+*꒰ 👑 ꒱* #ds • #fixmsgespera
+*꒰ 👑 ꒱* #editautoresponder
 
 
 > ･::::･ﾟ☆ 𝐁𝐮𝐬𝐜𝐚𝐝𝐨𝐫𝐞𝐬 ☆･ﾟ★･ﾟ::･> 
@@ -122,73 +122,43 @@ let handler = async (m, { conn, args }) => {
 *꒰ 💰 ꒱* #christmas • #navidad
 
 > ･ﾟ★,> ☆ 𝐆𝐚𝐜𝐡𝐚 ☆,★::･> 
-Comandos de gacha para reclamar y coleccionar personajes.
+
 *꒰ 🎲 ꒱* #rollwaifu • #rw • #roll
-» Waifu o husbando aleatorio.
 *꒰ 🎲 ꒱* #claim • #c • #reclamar
-» Reclamar un personaje.
 *꒰ 🎲 ꒱* #harem • #waifus • #claims
-» Ver tus personajes reclamados.
 *꒰ 🎲 ꒱* #charimage • #waifuimage • #wimage
-» Ver una imagen aleatoria de un personaje.
 *꒰ 🎲 ꒱* #charinfo • #winfo • #waifuinfo
-» Ver información de un personaje.
 *꒰ 🎲 ꒱* #givechar • #givewaifu • #regalar
-» Regalar un personaje a otro usuario.
 *꒰ 🎲 ꒱* #vote • #votar
-» Votar por un personaje para subir su valor.
 *꒰ 🎲 ꒱* #waifusboard • #waifustop • #topwaifus
-» Ver el top de personajes con mayor valor.
 
 > ･ﾟ★,･ﾟ☆ 𝐒𝐭𝐢𝐜𝐤𝐞𝐫𝐬 ☆･ﾟ･> ,★･ﾟ･> 
-Comandos para creaciones de stickers, ¡qué divertido!
+
 *꒰ ✨ ꒱* #sticker • #s
-» Crea stickers de (imagen/video)
 *꒰ ✨ ꒱* #setmeta
-» Establece un pack y autor para los stickers.
 *꒰ ✨ ꒱* #delmeta
-» Elimina tu pack de stickers.
 *꒰ ✨ ꒱* #pfp • #getpic
-» Obtén la foto de perfil de un usuario.
 *꒰ ✨ ꒱* #qc
-» Crea stickers con texto o de un usuario.
 *꒰ ✨ ꒱* #toimg • #img
-» Convierte stickers en imagen.
 *꒰ ✨ ꒱* #brat • #ttp • #attp
-» Crea stickers con texto.
-*꒰ ✨ ꒱* #emojimix
-» Fusiona 2 emojis para crear un sticker.
+*꒰ ✨ ꒱* #emojimix 🦋+🔥
 *꒰ ✨ ꒱* #wm
-» Cambia el nombre de los stickers.
 
 > ･:★,> ･ﾟ☆ 𝐇𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬 ☆･ﾟ:★･ﾟ･> 
-Comandos de herramientas con muchas funciones útiles.
+
 *꒰ 🛠️ ꒱* #calcular • #calcular • #cal
-» Calcular todo tipo de ecuaciones.
 *꒰ 🛠️ ꒱* #tiempo • #clima
-» Ver el clima de un país.
 *꒰ 🛠️ ꒱* #horario
-» Ver el horario global de los países.
 *꒰ 🛠️ ꒱* #fake • #fakereply
-» Crea un mensaje falso de un usuario.
 *꒰ 🛠️ ꒱* #enhance • #remini • #hd
-» Mejora la calidad de una imagen.
-*꒰ 🛠️ ꒱* #letra #letra1
-» Cambia la fuente de las letras.
+*꒰ 🛠️ ꒱* #letra
 *꒰ 🛠️ ꒱* #read • #readviewonce • #ver
-» Ver imágenes de una sola vista.
 *꒰ 🛠️ ꒱* #whatmusic • #shazam
-» Descubre el nombre de canciones o vídeos.
 *꒰ 🛠️ ꒱* #ss • #ssweb
-» Ver el estado de una página web.
 *꒰ 🛠️ ꒱* #length • #tamaño
-» Cambia el tamaño de imágenes y vídeos.
 *꒰ 🛠️ ꒱* #say • #decir + [texto]
-» Repetir un mensaje.
 *꒰ 🛠️ ꒱* #todoc • #toducument
-» Crea documentos de (audio, imágenes y vídeos).
 *꒰ 🛠️ ꒱* #translate • #traducir • #trad
-» Traduce palabras en otros idiomas.
 
 > ･:･:･ﾟ☆ 𝐏𝐞𝐫𝐟𝐢𝐥 ☆･ﾟ::::･> 
 Comandos de perfil para ver, configurar y comprobar estados de tu perfil.
