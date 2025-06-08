@@ -128,7 +128,6 @@ href="https://wa.me/5491156178758?text="><img src="https://files.catbox.moe/1im3
 
 - **Propietario:** [`Aquí`](https:/Wa.me/5491156178758)
 - **Github:** [`Aqui`](https://github.com/fedelanYTCLUB)
-- **Instagram:** [`Aqui`]()
 - **Correo:** [`Aqui`](fedelanyt20@gmail.com)
 
 </details>
