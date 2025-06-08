@@ -112,10 +112,10 @@ npm start
 * Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/GgPP07cL54iL6C1lrwX0fz)
 </details>
 
-### **`👑 INFORMACION CONTACTOS`**
+### **👑 INFORMACION CONTACTOS**
 
-#### **`Owner: Fede 🤴`**
-> **`Developed By: ASUNA-BOT**
+#### **Owner: Fede🍭**
+> **Developed By: ASUNA-BOT**
 
 #### **`CONTACTOS 💻`**
 <p>
