@@ -18,6 +18,7 @@ let handler = async (m, { conn, args }) => {
   *🦋.......⋆｡˚☁︎｡⋆｡ ☔ ⋆｡˚☁︎｡⋆........🦋*
 > Holis, Soy ${botname}
 
+> *🍭 EL BOT SE ENCUENTRA EN DESARROLLO XD*
 
 👋 *saludo:* ${saludo}
 👤 *Usuario:* @${userId.split('@')[0]}
@@ -27,27 +28,25 @@ let handler = async (m, { conn, args }) => {
 🤍 *Comandos:* ${totalCommands}
 🍫 *Baileys:* MekBaileys
 
-> Puedes crear tu *SUB-BOT* con #code o #qr ☔
-
 > ･::ﾟ･ﾟ☆ 𝐈𝐧𝐟𝐨 𝐁𝐨𝐭 ☆･ﾟ:･ﾟ::･> 
 
-*꒰ 🍀 ꒱* #help • #menu
-*꒰ 🍀 ꒱* #uptime • #runtime
-*꒰ 🍀 ꒱* #serbot • #serbot code
-*꒰ 🍀 ꒱* #bots • #sockets
-*꒰ 🍀 ꒱* #creador
-*꒰ 🍀 ꒱* #status • #estado
-*꒰ 🍀 ꒱* #links • #grupos
-*꒰ 🍀 ꒱* #infobot • #infobot
-*꒰ 🍀 ꒱* #sug • #newcommand
-*꒰ 🍀 ꒱* #p • #ping
-*꒰ 🍀 ꒱* #reporte • #reportar
-*꒰ 🍀 ꒱* #sistema • #system
-*꒰ 🍀 ꒱* #speed • #speedtest
-*꒰ 🍀 ꒱* #views • #usuarios
-*꒰ 🍀 ꒱* #funciones • #totalfunciones
-*꒰ 🍀 ꒱* #ds • #fixmsgespera
-*꒰ 🍀 ꒱* #editautoresponder
+*꒰ 🍭 ꒱* #help • #menu
+*꒰ 🍭 ꒱* #uptime • #runtime
+*꒰ 🍭 ꒱* #serbot • #serbot code
+*꒰ 🍭 ꒱* #bots • #sockets
+*꒰ 🍭 ꒱* #creador
+*꒰ 🍭 ꒱* #status • #estado
+*꒰ 🍭 ꒱* #links • #grupos
+*꒰ 🍭 ꒱* #infobot • #infobot
+*꒰ 🍭 ꒱* #sug • #newcommand
+*꒰ 🍭 ꒱* #p • #ping
+*꒰ 🍭 ꒱* #reporte • #reportar
+*꒰ 🍭 ꒱* #sistema • #system
+*꒰ 🍭 ꒱* #speed • #speedtest
+*꒰ 🍭 ꒱* #views • #usuarios
+*꒰ 🍭 ꒱* #funciones • #totalfunciones
+*꒰ 🍭 ꒱* #ds • #fixmsgespera
+*꒰ 🍭 ꒱* #editautoresponder
 
 
 > ･::::･ﾟ☆ 𝐁𝐮𝐬𝐜𝐚𝐝𝐨𝐫𝐞𝐬 ☆･ﾟ★･ﾟ::･> 
@@ -76,92 +75,50 @@ let handler = async (m, { conn, args }) => {
 *꒰ 📥 ꒱* #pinvid • #pinvideo + [enlacé]
 *꒰ 📥 ꒱* #mega • #mg + [enlacé]
 *꒰ 📥 ꒱* #play • #play2
-» Descarga música/video de YouTube.
 *꒰ 📥 ꒱* #ytmp3 • #ytmp4
-» Descarga música/video de YouTube mediante url.
 *꒰ 📥 ꒱* #fb • #facebook
-» Descarga videos de Facebook.
 *꒰ 📥 ꒱* #twitter • #x + [Link]
-» Descargar un video de Twitter/X
 *꒰ 📥 ꒱* #ig • #instagram
-» Descarga contenido de Instagram.
 *꒰ 📥 ꒱* #tts • #tiktoks + [busqueda]
-» Buscar videos de tiktok
 *꒰ 📥 ꒱* #terabox • #tb + [enlace]
-» Descargar archivos por Terabox.
 *꒰ 📥 ꒱* #ttimg • #ttmp3 + <url
-» Descarga fotos/audios de tiktok.
 *꒰ 📥 ꒱* #gitclone + <url
-» Descarga un repositorio de github.
 *꒰ 📥 ꒱* #xvideosdl
-» Descarga videos porno de (Xvideos).
 *꒰ 📥 ꒱* #xnxxdl
-» Descarga videos porno de (xnxx).
 *꒰ 📥 ꒱* #apk • #modapk
-» Descarga un apk de Aptoide.
 *꒰ 📥 ꒱* #tiktokrandom • #ttrandom
-» Descarga un video aleatorio de tiktok.
 *꒰ 📥 ꒱* #npmdl • #npmdownloader
-» Descarga paquetes de NPMJs.
 
 > ･:,:ﾟ☆ 𝐄𝐜𝐨𝐧𝐨𝐦𝐢́𝐚 ☆･ﾟ:::･> 
-Comandos de economía y RPG para ganar dinerito y otros recursos.
-*꒰ 💰 ꒱* #w • #work • #trabajar
-» Trabaja para ganar ${moneda}.
-*꒰ 💰 ꒱* #slut • #protituirse
-» Trabaja como prostituta y gana ${moneda}.
-*꒰ 💰 ꒱* #cf • #suerte
-» Apuesta tus ${moneda} a cara o cruz.
-*꒰ 💰 ꒱* #crime • #crimen
-» Trabaja como ladrón para ganar ${moneda}.
-*꒰ 💰 ꒱* #ruleta • #roulette • #rt
-» Apuesta ${moneda} al color rojo o negro.
-*꒰ 💰 ꒱* #casino • #apostar
-» Apuesta tus ${moneda} en el casino.
-*꒰ 💰 ꒱* #slot
-» Apuesta tus ${moneda} en la ruleta y prueba tu suerte.
-*꒰ 💰 ꒱* #cartera • #wallet
-» Ver tus ${moneda} en la cartera.
-*꒰ 💰 ꒱* #banco • #bank
-» Ver tus ${moneda} en el banco.
-*꒰ 💰 ꒱* #deposit • #depositar • #d
-» Deposita tus ${moneda} al banco.
-*꒰ 💰 ꒱* #with • #retirar • #withdraw
-» Retira tus ${moneda} del banco.
-*꒰ 💰 ꒱* #transfer • #pay
-» Transfiere ${moneda} o XP a otros usuarios.
+
+*꒰ 💰 ꒱* #w • #work • #trabajar ${moneda}
+*꒰ 💰 ꒱* #slut • #protituirse ${moneda}
+*꒰ 💰 ꒱* #cf • #suerte ${moneda}
+*꒰ 💰 ꒱* #crime • #crimen ${moneda}
+*꒰ 💰 ꒱* #ruleta • #roulette • #rt ${moneda}
+*꒰ 💰 ꒱* #casino • #apostar ${moneda}
+*꒰ 💰 ꒱* #slot ${moneda}
+*꒰ 💰 ꒱* #cartera • #wallet ${moneda}
+*꒰ 💰 ꒱* #banco • #bank ${moneda}
+*꒰ 💰 ꒱* #deposit • #depositar • #d ${moneda}
+*꒰ 💰 ꒱* #with • #retirar • #withdraw ${moneda}
+*꒰ 💰 ꒱* #transfer • #pay ${moneda}
 *꒰ 💰 ꒱* #miming • #minar • #mine
-» Trabaja como minero y recolecta recursos.
-*꒰ 💰 ꒱* #buyall • #buy
-» Compra ${moneda} con tu XP.
+*꒰ 💰 ꒱* #buyall • #buy ${moneda}
 *꒰ 💰 ꒱* #daily • #diario
-» Reclama tu recompensa diaria.
 *꒰ 💰 ꒱* #cofre
-» Reclama un cofre diario lleno de recursos.
 *꒰ 💰 ꒱* #weekly • #semanal
-» Reclama tu regalo semanal.
 *꒰ 💰 ꒱* #monthly • #mensual
-» Reclama tu recompensa mensual.
-*꒰ 💰 ꒱* #steal • #robar • #rob
-» Intenta robarle ${moneda} a alguien.
+*꒰ 💰 ꒱* #steal • #robar • #rob ${moneda}.
 *꒰ 💰 ꒱* #robarxp • #robxp
-» Intenta robar XP a un usuario.
-*꒰ 💰 ꒱* #eboard • #baltop
-» Ver el ranking de usuarios con más ${moneda}.
+*꒰ 💰 ꒱* #eboard • #baltop ${moneda}
 *꒰ 💰 ꒱* #aventura • #adventure
-» Aventúrate en un nuevo reino y recolecta recursos.
 *꒰ 💰 ꒱* #curar • #heal
-» Cura tu salud para volverte a aventurar.
 *꒰ 💰 ꒱* #cazar • #hunt • #berburu
-» Aventúrate en una caza de animales.
 *꒰ 💰 ꒱* #inv • #inventario
-» Ver tu inventario con todos tus ítems.
-*꒰ 💰 ꒱* #mazmorra • #explorar
-» Explorar mazmorras para ganar ${moneda}.
+*꒰ 💰 ꒱* #mazmorra • #explorar ${moneda}
 *꒰ 💰 ꒱* #halloween
-» Reclama tu dulce o truco (Solo en Halloween).
 *꒰ 💰 ꒱* #christmas • #navidad
-» Reclama tu regalo navideño (Solo en Navidad).
 
 > ･ﾟ★,> ☆ 𝐆𝐚𝐜𝐡𝐚 ☆,★::･> 
 Comandos de gacha para reclamar y coleccionar personajes.
