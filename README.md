@@ -127,9 +127,9 @@ href="https://wa.me/5491156178758?text="><img src="https://files.catbox.moe/1im3
 <details>
 <summary><b> 📞 Toca Aqui</b></summary>
 
-- **Propietario:** [`Aquí`](https:/Wa.me/50557865603)
+- **Propietario:** [`Aquí`](https:/Wa.me/5491156178758)
 - **Github:** [`Aqui`](https://github.com/WillZek)
-- **Instagram:** [`Aqui`](https://www.instagram.com/pina_dzn)
+- **Instagram:** [`Aqui`]()
 - **Correo:** [`Aqui`](fedelanyt20@gmail.com)
 
 </details>
