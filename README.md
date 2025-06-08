@@ -49,9 +49,6 @@
 
 ---
 
-<img src= "https://files.catbox.moe/iigsua.jpg"> height="500px"></a>
-    </p>
-
 
 ### **`✧ Click en la imagen para descargar termux ✧`**
 <a
