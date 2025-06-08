@@ -108,15 +108,14 @@ npm start
 <details>
  <summary><b> 🜸 Enlaces Oficiales </b></summary>
 
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/CDw7hpI30WjCyKFAVLHNhZ)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa)
+ * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VbAfd7zDDmFXm5adcF31)
+* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/GgPP07cL54iL6C1lrwX0fz)
 </details>
 
 ### **`👑 INFORMACION CONTACTOS`**
 
 #### **`Owner: Fede 🤴`**
-> **`Developed By: asuna**
+> **`Developed By: ASUNA-BOT**
 
 #### **`CONTACTOS 💻`**
 <p>
