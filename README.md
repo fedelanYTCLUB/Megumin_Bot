@@ -114,11 +114,29 @@ npm start
 </details>
 
 <details>
-<summary><b> ✰ Contáctos</b></summary>
+### **`👑 INFORMACION CONTACTOS`**
 
-* WhatsApp: [`Aquí`](https:/Wa.me/5212202410659)
-* Correo: [`Aquí`](thekingdestroy507@gmail.com)
+#### **`Owner: FedelanYT 🤴`**
+> **`Developed By: Asuna`**
 
+#### **`CONTACTOS 💻`**
+<p>
+
+<a
+href="https://wa.me/5491156178758?text="><img src="https://files.catbox.moe/1im3vh.jpg" height="125px"></a>
+
+<details>
+<summary><b> 📞 Toca Aqui</b></summary>
+
+- **Propietario:** [`Aquí`](https:/Wa.me/5491156178758)
+- **Github:** [`Aqui`](https://github.com/fedelanYTCLUB)
+- **Instagram:** [`Aqui`](https://www.instagram.com/pina_dzn)
+- **Correo:** [`Aqui`](fedelanyt20@gmail.com)
+
+</details>
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </details>
 
 ---
