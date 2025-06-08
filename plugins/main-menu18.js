@@ -39,7 +39,7 @@ let texto = ` 𝐌𝐄𝐍𝐔 +18
         }}},
         { quoted: fkontak })
 }
-handler.help = ['menuhot (menu +18)']
+handler.help = ['menu18']
 handler.tags = ['main']
 handler.command = ['menu18', 'menunsfw', 'menuhot'] 
 export default handler;
