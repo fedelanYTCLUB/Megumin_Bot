@@ -42,9 +42,9 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
     }
     
     let sn = createHash('md5').update(m.sender).digest('hex')
-    let regbot = `┏━━━━━━━━━━━━━━━━━━⬣
+    let regbot = `┏━━━━━━━━━━━━━━━━━⬣
 ┃⋄ *𝗔𝗦𝗨𝗡𝗔-𝗕𝗢𝗧 • 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗢𝗦*
-┗━━━━━━━━━━━━━━━━━━⬣\n`
+┗━━━━━━━━━━━━━━━━━⬣\n`
     regbot += `•✩.･*:｡≻──── ⋆♡⋆ ────.•*:｡✩•\n`
     regbot += `*「💙」𝐍𝐨𝐦𝐛𝐫𝐞:* ${name}\n`
     regbot += `*「💙」𝐄𝐝𝐚𝐝:* ${age} años\n`
@@ -54,6 +54,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
     regbot += `• 5 CrowCoins 🪙\n> `
     regbot += `• 245 Experiencia 💸\n> `
     regbot += `• 12 Tokens 💰\n`
+    regbot += `• ᥎ᥱ 𝗍ᥙ 𝗋ᥱɢі𝗌𝗍𝗋᥆ ᥲ𝗊ᥙі👇 https://whatsapp.com/channel/0029VbApe6jG8l5Nv43dsC2N/n`
     regbot += `─── ･ ｡ﾟ☆: *.💙 .* :☆ﾟ. ───\n> `
     regbot += `🍿 Usᥲ *#perfil* ⍴ᥲrᥲ ᥎ᥱr 𝗍ᥙ ⍴ᥱr𝖿іᥣ.`
 
