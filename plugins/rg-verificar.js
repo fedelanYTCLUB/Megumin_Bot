@@ -42,9 +42,9 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
     }
     
     let sn = createHash('md5').update(m.sender).digest('hex')
-    let regbot = `┏━━━━━━━━━━━━━━━━⬣
+    let regbot = `┏━━━━━━━━━━━━━━━⬣
 ┃⋄ *𝗔𝗦𝗨𝗡𝗔-𝗕𝗢𝗧 • 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗢𝗦*
-┗━━━━━━━━━━━━━━━━⬣\n`
+┗━━━━━━━━━━━━━━━⬣\n`
     regbot += `•✩.･*:｡≻──── ⋆♡⋆ ────.•*:｡✩•\n`
     regbot += `*「💙」𝐍𝐨𝐦𝐛𝐫𝐞:* ${name}\n`
     regbot += `*「💙」𝐄𝐝𝐚𝐝:* ${age} años\n`
@@ -62,7 +62,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
         text: regbot,
         contextInfo: {
             externalAdReply: {
-                title: '⊱『✅𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢(𝗔) 𝆹𝅥✅』⊰',
+                title: '⊱『✅𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢/𝗔 𝆹𝅥✅』⊰',
                 thumbnailUrl: 'https://files.catbox.moe/8v91yo.jpg',
                 mediaType: 1,
                 renderLargerThumbnail: true
