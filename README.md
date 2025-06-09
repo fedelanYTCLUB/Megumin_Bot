@@ -70,7 +70,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/fedelanYTCLUB/Megumin_Bot && cd Megumin_Bot
+git clone https://github.com/fedelanYTCLUB/asuna_Bot-Al && cd asuna_Bot-Al
 ```
 
 ```bash
@@ -98,7 +98,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Megumin_Bot
+    cd asuna_Bot-Al
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -112,7 +112,7 @@ npm start
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd Yuki_Suou-Bot && nano settings.js
+    cd asuna_Bot-Al && nano settings.js
    ```
 
 </details>
