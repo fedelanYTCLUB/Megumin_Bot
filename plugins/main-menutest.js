@@ -16,11 +16,10 @@ let handler = async (m, { conn, args }) => {
 
   let txt = `
   *🍭.......⋆｡˚☁︎｡⋆｡ 🍀 ⋆｡˚☁︎｡⋆........🍭*
-> Hola, Me llamo ${botname}
+> *Hola,* ${saludo} *Me llamo* ${botname}
 
 > *🍭 EL BOT SE ENCUENTRA EN DESARROLLO XD*
 
-👋 *saludo:* ${saludo}
 👤 *Usuario:* @${userId.split('@')[0]}
 🪷 *Modo:* Privado
 🕒 *Activa hace:* ${uptime}
@@ -161,37 +160,22 @@ let handler = async (m, { conn, args }) => {
 *꒰ 🛠️ ꒱* #translate • #traducir • #trad
 
 > ･:･:･ﾟ☆ 𝐏𝐞𝐫𝐟𝐢𝐥 ☆･ﾟ::::･> 
-Comandos de perfil para ver, configurar y comprobar estados de tu perfil.
+
 *꒰ 👤 ꒱* #reg • #verificar • #register
-» Registra tu nombre y edad en el bot.
 *꒰ 👤 ꒱* #unreg
-» Elimina tu registro del bot.
 *꒰ 👤 ꒱* #profile
-» Muestra tu perfil de usuario.
 *꒰ 👤 ꒱* #marry [mension / etiquetar]
-» Propón matrimonio a otro usuario.
 *꒰ 👤 ꒱* #divorce
-» Divorciarte de tu pareja.
 *꒰ 👤 ꒱* #setgenre • #setgenero
-» Establece tu género en el perfil del bot.
 *꒰ 👤 ꒱* #delgenre • #delgenero
-» Elimina tu género del perfil del bot.
 *꒰ 👤 ꒱* #setbirth • #setnacimiento
-» Establece tu fecha de nacimiento en el perfil del bot.
 *꒰ 👤 ꒱* #delbirth • #delnacimiento
-» Elimina tu fecha de nacimiento del perfil del bot.
 *꒰ 👤 ꒱* #setdescription • #setdesc
-» Establece una descripción en tu perfil del bot.
 *꒰ 👤 ꒱* #deldescription • #deldesc
-» Elimina la descripción de tu perfil del bot.
 *꒰ 👤 ꒱* #lb • #lboard + <Paginá
-» Top de usuarios con más (experiencia y nivel).
 *꒰ 👤 ꒱* #level • #lvl + <@Mencion
-» Ver tu nivel y experiencia actual.
 *꒰ 👤 ꒱* #comprarpremium • #premium
-» Compra un pase premium para usar el bot sin límites.
 *꒰ 👤 ꒱* #confesiones • #confesar
-» Confiesa tus sentimientos a alguien de manera anónima.
 
 > ･::･ﾟ☆ 𝐆𝐫𝐮𝐩𝐨𝐬 ☆･ﾟ::ﾟ::･> 
 Comandos de grupos para una mejor gestión de ellos.
