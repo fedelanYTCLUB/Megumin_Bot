@@ -1,26 +1,40 @@
-import { WAMessageStubType } from '@whiskeysockets/baileys'
-import fetch from 'node-fetch'
 
-export async function before(m, { conn, participants, groupMetadata }) {
-  if (!m.messageStubType || !m.isGroup) return !0;
+<div class="welcome-container">
+    <h2>¡Bienvenido al Deymoon Club!</h2>
+    <img src="https://example.com/tu-imagen-bienvenida.jpg" alt="Imagen de bienvenida">
+    <p>Saludos, nuevo miembro! Ahora somos <span id="member-count">19</span> miembros.</p>
+    <p>(=^◡ω◡^=) • ¡Esperamos que disfrutes tu estancia!</p>
+</div>
 
-  let who = m.messageStubParameters[0]
-  let taguser = `@${who.split('@')[0]}`
-  let chat = global.db.data.chats[m.chat]
-  let pp = await conn.profilePictureUrl(m.messageStubParameters[0], 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
-  let img = await (await fetch(`${pp}`)).buffer()
+<div class="farewell-container">
+    <h2>GOODBYE Deymoon C1</h2>
+    <img src="https://example.com/tu-imagen-despedida.jpg" alt="Imagen de despedida">
+    <p>Adiós, miembro <span id="member-id">263642960412774</span>.</p>
+    <p>(=^◡ω◡^=) • Te esperamos pronto!</p>
+</div>
 
-    if (chat.welcome && m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_ADD) {
-      let bienvenida = `❀ *Bienvenido* a ${groupMetadata.subject}\n ✰ ${taguser}\n${global.welcom1}\n •(=^●ω●^=)• Disfruta tu estadía en el grupo!\n> ✐ Puedes usar *#help* para ver la lista de comandos.`
-      await conn.sendMessage(m.chat, { image: img, caption: bienvenida, mentions: [who] })
-    }
-       
-    if (chat.welcome && m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_LEAVE) {
-      let bye = `❀ *Adiós* de ${groupMetadata.subject}\n ✰ ${taguser}\n${global.welcom2}\n •(=^●ω●^=)• Te esperamos pronto!\n> ✐ Puedes usar *#help* para ver la lista de comandos.`
-      await conn.sendMessage(m.chat, { image: img, caption: bye, mentions: [who] })
-    }
+.welcome-container,.farewell-container {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom, #ffcc00, #ff9900);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
 
-    if (chat.welcome && m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_REMOVE) { 
-      let kick = `❀ *Adiós* de ${groupMetadata.subject}\n ✰ ${taguser}\n${global.welcom2}\n •(=^●ω●^=)• Te esperamos pronto!\n> ✐ Puedes usar *#help* para ver la lista de comandos.`
-      await conn.sendMessage(m.chat, { image: img, caption: kick, mentions: [who] })
-  }}
+h2 {
+    color: white;
+    font-size: 24px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+img {
+    width: 150px;
+    border-radius: 50%;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 16px;
+    color: white;
+}
